@@ -1,4 +1,4 @@
-CONNECT OPEN SOURCE<br>
+#CONNECT OPEN SOURCE<br>
 
 
 Connect Open Source is an organization which is working towards bringing up global FOSS communities together on one platform and let volunteers explore different opportunities they have for them and also encourage new opensource starups across the globe.
