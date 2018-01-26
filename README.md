@@ -40,7 +40,7 @@ Connect Open Source is an organization which is working towards bringing up glob
 - Community Operations: [Will] work towards maintain accountability, stategize and coordinate with different teams that will help us to set an Organization.
 
 **Interests**
-- [Twitter](twitter.com/ @JoinCopensource)
+- [Twitter](http://twitter.com/@JoinCopensource)
 - [Facebook](http://fb.me/JoinCopensource)
 - _Telegram @connectopensource - Matrix/Riot IRC_
 
