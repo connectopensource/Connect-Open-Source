@@ -40,12 +40,13 @@ Connect Open Source is an organization which is working towards bringing up glob
 - Community Operations: [Will] work towards maintain accountability, stategize and coordinate with different teams that will help us to set an Organization.
 
 **Interests**
-
+- [Twitter](twitter.com/ @JoinCopensource)
+- [Facebook](http://fb.me/JoinCopensource)
 _Telegram @connectopensource - Matrix/Riot IRC_
 
 Is linked to a Matrix/Riot Room and an IRC channel on: [freenode](irc.freenode.net). Join us using the following links to participate in your platform of choice.
 
-**Telegram:** **_@connectopensource_**
+[**Telegram:** **_@connectopensource_**](https://t.me/connectopensource)
 
 **Matrix/Riot:** **_#connectopensource_** on **_irc.freenode.net_**
 
